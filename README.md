@@ -1,3 +1,3 @@
 # aws-scripts
 
-- [ssh-whitelist.sh](./ssh-whitelist.sh) = a script to update a 
+- [sg-whitelist.sh](./ssh-whitelist.sh) = a script to remove all inbound rules for a security group, then add a rule to allow access to a port from your current IP
